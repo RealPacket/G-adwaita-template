@@ -1,3 +1,3 @@
 # GTK + adwaita template
 
-Template for Linux apps, licensed under GPL v3.
+Template for modern GTK Linux apps, licensed under GPL v3.
